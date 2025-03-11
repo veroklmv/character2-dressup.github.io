@@ -1,16 +1,17 @@
 body {
-   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/533ac189-3345-4bd6-ab30-f47685bb103b/dfftn7m-4cb1343a-ccfc-489b-bb4e-f3d3b94c26dc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUzM2FjMTg5LTMzNDUtNGJkNi1hYjMwLWY0NzY4NWJiMTAzYlwvZGZmdG43bS00Y2IxMzQzYS1jY2ZjLTQ4OWItYmI0ZS1mM2QzYjk0YzI2ZGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bgv1zPWHI64Xh7r4YxssGXN8VQsRnCjxG0OSkYMZ4mw");
+   background-image: url("https://freight.cargo.site/t/original/i/B2252969201878876070042260478859/Comp1-ezgif.com-video-to-gif-converter.gif");
   background-color: #666666;
   background-repeat: repeat;
   background-attachment: fixed;
 }
 #box {
-  background-color: #7E7E7E;
-  border-radius: 20px;
+  background-color: #cfbcc5;
+  border-radius: 10px;
   margin: auto;
+  position: absolute;
   text-align: center;
-  height: 800px;
-  width: 600px;
+  height: 850px;
+  width:500px;
 }
 #heading {
   font-size: 40px;
