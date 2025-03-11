@@ -18,7 +18,7 @@ body {
   letter-spacing: 2px;
   text-align: center;
   color: snow;
-  font-family: 'hanging letters';
+  font-family: 'open sans';
 }  
 #backdrop {
   top: 2em;
@@ -34,7 +34,7 @@ body {
   margin: 1rem;
   }
 button {
-  font-family: 'rainyhearts';
+  font-family: 'Open Sans';
   margin-top: 2em;
   margin-right: 0.4em;
   color: black;
